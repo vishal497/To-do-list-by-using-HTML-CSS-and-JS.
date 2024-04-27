@@ -1,0 +1,44 @@
+body{
+    background-image: url(bg.jpg) ;
+  
+    
+background-repeat: no-repeat;
+background-size: cover
+
+}
+.container{
+    width: 360px;
+    padding: 40px;
+ text-align:center;
+background-color: antiquewhite;
+
+margin: 35%;
+margin-top: 100px;
+}
+input{
+
+    width: 270px;
+    padding: 8px;
+    border: 2px solid rgb(49, 52, 52);
+    outline: none;
+}
+button{
+    width: 60px;
+    height: 41px;
+    border:  1px solid black;
+    cursor: pointer;
+}
+
+    
+.text ul {
+    position: relative;
+    text-align: left;
+    padding: 10px ;
+    background-color: bisque;
+
+}
+.text ul i{
+    position: absolute;
+    right: 10px;
+    cursor: pointer;
+}
